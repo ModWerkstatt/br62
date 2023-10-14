@@ -1097,7 +1097,7 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1954,
+			yearFrom = 1949,
 			yearTo = 1956,
 		},
         cameraConfig = {
