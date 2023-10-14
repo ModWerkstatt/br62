@@ -1276,7 +1276,7 @@ return {
 			loadSpeed = 1,
 			multipleUnitOnly = false,
 			reversible = true,
-            groupFileName = "vehicle/train/br24/menu_br24.mdl",
+            groupFileName = "vehicle/train/br62/menu_br62.mdl",
 		},
 	},
 	version = 1,
