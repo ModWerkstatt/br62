@@ -19,27 +19,27 @@ return {
 					            materials = { "vehicle/train/br62/rumpf_4.mtl", },
 					            mesh = "vehicle/train/br62/rumpf_lod0.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            }, 
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rumpfdetails_lod0.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },	 
+				            },
 							{
 					            materials = { "vehicle/train/br62/licht.mtl", },
 					            mesh = "vehicle/train/br62/licht3_hell_vorne_lod0.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },		 
+				            },
 							{
 					            materials = { "vehicle/train/br62/lichtred.mtl", },
 					            mesh = "vehicle/train/br62/licht_rot_vorne_lod0.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },	 
+				            },
 							{
 					            materials = { "vehicle/train/br62/licht.mtl", },
 					            mesh = "vehicle/train/br62/licht3_hell_hinten_lod0.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },		 
+				            },
 							{
 					            materials = { "vehicle/train/br62/lichtred.mtl", },
 					            mesh = "vehicle/train/br62/licht_rot_hinten_lod0.msh",
@@ -59,12 +59,12 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/wagner_lod0.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },	
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/strom_lod0.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },	
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad1_lod0.msh",
@@ -74,24 +74,24 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad2_lod0.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, 0.389614, 0, 0.87855, 1, },
-				            },	
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad3_lod0.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, -2.42557, 0, 0.87855, 1, },
 				            },
 					{
-					children = {							
+					children = {
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/bogie1_lod0.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, 0, 0, 0.47513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_lod0.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.1, 0, 0.42513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_lod0.msh",
@@ -102,17 +102,17 @@ return {
 				        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 5.59156, 0, 0, 1, },
                     },
 					{
-					children = {							
+					children = {
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/bogie2_lod0.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, 0, 0, 0.47513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_lod0.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.1, 0, 0.42513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_lod0.msh",
@@ -121,7 +121,7 @@ return {
                         },
 				        name = "bogie",
 				        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.46466, 0, 0, 1, },
-                    },	
+                    },
 							{
 								animations = {
 										wheels = {
@@ -147,7 +147,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_9_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.38288, 0.03, 1.3077, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -160,7 +160,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_2_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.1894, -1.2022, 0.8922, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -173,7 +173,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_2_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.1894, 1.2022, 0.8922, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -186,7 +186,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_1_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.38509, -1.07056, 0.448918, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -199,7 +199,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_1_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.38288, 1.07056, 1.3077, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -225,7 +225,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_6_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 2.49513, 0, 1.7359, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -238,7 +238,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_8_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.9391, -1.2585, 2.1486, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -251,7 +251,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_3_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.5591, -1.2844, 1.5807, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -264,7 +264,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_3_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.2915, 1.2844, 1.5807, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -277,7 +277,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_7_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.53683, -1.3225, 0.82466, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -290,7 +290,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_7_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.53368, 1.3225, 0.93347, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -303,7 +303,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_4_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.599, -1.27526, 1.7082, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -316,7 +316,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_4_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.2825, 1.2753, 1.7082, 1,  },
-				            },		
+				            },
 							{
 								animations = {
 										wheels = {
@@ -329,7 +329,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_5_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.5786, -1.2884, 1.5805, 1,  },
-				            },			
+				            },
 							{
 								animations = {
 										wheels = {
@@ -342,7 +342,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_5_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.3057, 1.2884, 1.5805, 1,  },
-				            },	
+				            },
 			            },
 			            name = "GRP_lok",
 			            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -364,27 +364,27 @@ return {
 					            materials = { "vehicle/train/br62/rumpf_4.mtl", },
 					            mesh = "vehicle/train/br62/rumpf_lod1.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            }, 
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rumpfdetails_lod1.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },	 
+				            },
 							{
 					            materials = { "vehicle/train/br62/licht.mtl", },
 					            mesh = "vehicle/train/br62/licht3_hell_vorne_lod0.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },		 
+				            },
 							{
 					            materials = { "vehicle/train/br62/lichtred.mtl", },
 					            mesh = "vehicle/train/br62/licht_rot_vorne_lod0.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },	 
+				            },
 							{
 					            materials = { "vehicle/train/br62/licht.mtl", },
 					            mesh = "vehicle/train/br62/licht3_hell_hinten_lod0.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },		 
+				            },
 							{
 					            materials = { "vehicle/train/br62/lichtred.mtl", },
 					            mesh = "vehicle/train/br62/licht_rot_hinten_lod0.msh",
@@ -404,7 +404,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/wagner_lod1.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },	
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad1_lod1.msh",
@@ -414,24 +414,24 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad2_lod1.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, 0.389614, 0, 0.87855, 1, },
-				            },	
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad3_lod1.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, -2.42557, 0, 0.87855, 1, },
 				            },
 					{
-					children = {							
+					children = {
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/bogie1_lod1.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, 0, 0, 0.47513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_lod1.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.1, 0, 0.42513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_lod1.msh",
@@ -442,17 +442,17 @@ return {
 				        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 5.59156, 0, 0, 1, },
                     },
 					{
-					children = {							
+					children = {
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/bogie2_lod1.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, 0, 0, 0.47513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_lod1.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.1, 0, 0.42513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_lod1.msh",
@@ -461,7 +461,7 @@ return {
                         },
 				        name = "bogie",
 				        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.46466, 0, 0, 1, },
-                    },	
+                    },
 							{
 								animations = {
 										wheels = {
@@ -487,7 +487,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_9_links_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.38288, 0.03, 1.3077, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -500,7 +500,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_2_rechts_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.1894, -1.2022, 0.8922, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -513,7 +513,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_2_links_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.1894, 1.2022, 0.8922, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -526,7 +526,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_1_rechts_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.38509, -1.07056, 0.448918, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -539,7 +539,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_1_links_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.38288, 1.07056, 1.3077, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -565,7 +565,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_6_links_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 2.49513, 0, 1.7359, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -578,7 +578,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_8_rechts_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.9391, -1.2585, 2.1486, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -591,7 +591,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_3_rechts_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.5591, -1.2844, 1.5807, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -604,7 +604,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_3_links_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.2915, 1.2844, 1.5807, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -617,7 +617,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_7_rechts_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.53683, -1.3225, 0.82466, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -630,7 +630,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_7_links_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.53368, 1.3225, 0.93347, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -643,7 +643,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_4_rechts_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.599, -1.27526, 1.7082, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -656,7 +656,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_4_links_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.2825, 1.2753, 1.7082, 1,  },
-				            },		
+				            },
 							{
 								animations = {
 										wheels = {
@@ -669,7 +669,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_5_rechts_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.5786, -1.2884, 1.5805, 1,  },
-				            },			
+				            },
 							{
 								animations = {
 										wheels = {
@@ -682,7 +682,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_5_links_lod1.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.3057, 1.2884, 1.5805, 1,  },
-				            },	
+				            },
 			            },
 			            name = "GRP_lok",
 			            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -709,22 +709,22 @@ return {
 					            materials = { "vehicle/train/br62/innen.mtl", },
 					            mesh = "vehicle/train/br62/innen_lod3.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },  
+				            },
 							{
 					            materials = { "vehicle/train/br62/licht.mtl", },
 					            mesh = "vehicle/train/br62/licht3_hell_vorne_lod0.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },		 
+				            },
 							{
 					            materials = { "vehicle/train/br62/lichtred.mtl", },
 					            mesh = "vehicle/train/br62/licht_rot_vorne_lod0.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },	 
+				            },
 							{
 					            materials = { "vehicle/train/br62/licht.mtl", },
 					            mesh = "vehicle/train/br62/licht3_hell_hinten_lod0.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },		 
+				            },
 							{
 					            materials = { "vehicle/train/br62/lichtred.mtl", },
 					            mesh = "vehicle/train/br62/licht_rot_hinten_lod0.msh",
@@ -739,24 +739,24 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_low_lod2.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, 0.389614, 0, 0.87855, 1, },
-				            },	
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_low_lod2.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, -2.42557, 0, 0.87855, 1, },
 				            },
 					{
-					children = {							
+					children = {
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/bogie_mini_lod2.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, 0, 0, 0.47513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_low_lod2.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.1, 0, 0.42513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_low_lod2.msh",
@@ -767,17 +767,17 @@ return {
 				        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 5.59156, 0, 0, 1, },
                     },
 					{
-					children = {							
+					children = {
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/bogie_mini_lod2.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, 0, 0, 0.47513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_low_lod2.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.1, 0, 0.42513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_low_lod2.msh",
@@ -786,7 +786,7 @@ return {
                         },
 				        name = "bogie",
 				        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.46466, 0, 0, 1, },
-                    },	
+                    },
 							{
 								animations = {
 										wheels = {
@@ -812,7 +812,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_9_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.38288, 0.03, 1.3077, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -825,7 +825,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_2_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.1894, -1.2022, 0.8922, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -838,7 +838,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_2_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.1894, 1.2022, 0.8922, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -851,7 +851,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_1_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.38509, -1.07056, 0.448918, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -864,7 +864,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_1_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.38288, 1.07056, 1.3077, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -890,7 +890,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_6_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 2.49513, 0, 1.7359, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -903,7 +903,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_8_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.9391, -1.2585, 2.1486, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -916,7 +916,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_3_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.5591, -1.2844, 1.5807, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -929,7 +929,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_3_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.2915, 1.2844, 1.5807, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -942,7 +942,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_7_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.53683, -1.3225, 0.82466, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -955,7 +955,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_7_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.53368, 1.3225, 0.93347, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -968,7 +968,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_4_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.599, -1.27526, 1.7082, 1,  },
-				            },	
+				            },
 							{
 								animations = {
 										wheels = {
@@ -981,7 +981,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_4_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.2825, 1.2753, 1.7082, 1,  },
-				            },		
+				            },
 							{
 								animations = {
 										wheels = {
@@ -994,7 +994,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_5_rechts_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.5786, -1.2884, 1.5805, 1,  },
-				            },			
+				            },
 							{
 								animations = {
 										wheels = {
@@ -1007,7 +1007,7 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rod_5_links_lod0.msh",
 					            transf = {  1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.3057, 1.2884, 1.5805, 1,  },
-				            },	
+				            },
 			            },
 			            name = "GRP_lok",
 			            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -1029,7 +1029,7 @@ return {
 					            materials = { "vehicle/train/br62/rumpf_4.mtl", },
 					            mesh = "vehicle/train/br62/rumpf_lod3.msh",
 					            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-				            },	
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_low_lod2.msh",
@@ -1039,24 +1039,24 @@ return {
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_low_lod2.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, 0.389614, 0, 0.87855, 1, },
-				            },	
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_low_lod2.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, -2.42557, 0, 0.87855, 1, },
 				            },
 					{
-					children = {							
+					children = {
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/bogie_mini_lod3.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, 0, 0, 0.47513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_low_lod3.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.1, 0, 0.42513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_low_lod3.msh",
@@ -1067,17 +1067,17 @@ return {
 				        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 5.59156, 0, 0, 1, },
                     },
 					{
-					children = {							
+					children = {
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/bogie_mini_lod3.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1.0, 0, 0, 0, 0.47513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_low_lod3.msh",
 					            transf = { 1.0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.1, 0, 0.42513, 1, },
-				            },							
+				            },
 							{
 					            materials = { "vehicle/train/br62/beweglich_4.mtl", },
 					            mesh = "vehicle/train/br62/rad_klein_low_lod3.msh",
@@ -1086,7 +1086,7 @@ return {
                         },
 				        name = "bogie",
 				        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -5.46466, 0, 0, 1, },
-                    },			
+                    },
 			            },
 			            name = "GRP_lok",
 			            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -1097,7 +1097,7 @@ return {
 		    },
 			static = false,
 			visibleFrom = 500,
-			visibleTo = 2500,
+			visibleTo = 1800,
 		},
 	},
 	metadata = {
@@ -1107,7 +1107,7 @@ return {
 		},
         cameraConfig = {
 		    positions = {
-			    { 
+			    {
                     group = 1,
                     transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -3.078, -1.192, 3.425, 1 },
                     fov = 40,
@@ -1164,13 +1164,13 @@ return {
 		railVehicle = {
 			configs = {
 				{
-					axles = { 
+					axles = {
 					"vehicle/train/br62/rad1_lod0.msh",
 					"vehicle/train/br62/rad2_lod0.msh",
 					"vehicle/train/br62/rad3_lod0.msh",
-					"vehicle/train/br62/rad_klein_lod0.msh", 
+					"vehicle/train/br62/rad_klein_lod0.msh",
                     },
-					backBackwardParts = { 5 }, 
+					backBackwardParts = { 5 },
 					backForwardParts = { 7 },
 					frontBackwardParts = { 6 },
 					frontForwardParts = { 4 },
@@ -1178,13 +1178,13 @@ return {
 					innerForwardParts = { },
 				},
 				{
-					axles = { 
+					axles = {
 					"vehicle/train/br62/rad1_lod1.msh",
 					"vehicle/train/br62/rad2_lod1.msh",
 					"vehicle/train/br62/rad3_lod1.msh",
-					"vehicle/train/br62/rad_klein_lod1.msh", 
+					"vehicle/train/br62/rad_klein_lod1.msh",
                     },
-					backBackwardParts = { 5 }, 
+					backBackwardParts = { 5 },
 					backForwardParts = { 7 },
 					frontBackwardParts = { 6 },
 					frontForwardParts = { 4 },
@@ -1192,11 +1192,11 @@ return {
 					innerForwardParts = { },
 				},
 				{
-					axles = { 
+					axles = {
 					"vehicle/train/br62/rad_low_lod2.msh",
 					"vehicle/train/br62/rad_klein_low_lod2.msh",
                     },
-					backBackwardParts = { 5 }, 
+					backBackwardParts = { 5 },
 					backForwardParts = { 7 },
 					frontBackwardParts = { 6 },
 					frontForwardParts = { 4 },
@@ -1204,11 +1204,11 @@ return {
 					innerForwardParts = { },
 				},
 				{
-					axles = { 
+					axles = {
 					"vehicle/train/br62/rad_low_lod2.msh",
 					"vehicle/train/br62/rad_klein_low_lod3.msh",
                     },
-					backBackwardParts = { }, 
+					backBackwardParts = { },
 					backForwardParts = { },
 					frontBackwardParts = { },
 					frontForwardParts = { },
@@ -1218,8 +1218,8 @@ return {
 			},
 			engines = {
 				{
-					power = 1236, 
-					tractiveEffort = 150, 
+					power = 1236,
+					tractiveEffort = 150,
 					type = "STEAM",
 				},
 			},
