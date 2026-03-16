@@ -1,0 +1,22 @@
+{
+    "name": "DRG/DR/DB Class 62",
+    "summary": "The most important and most built universal steam locomotive of DRG.",
+    "description": "The class 62 was developed by the Engeren Lokomotivausschuss des Reichsbahn-Zentralamtes and built by Henschel at the end of the 1920s. The machines were two-cylinder hot steam locomotives. A total of 15 examples were produced. Although all locomotives had already been built in 1928, the Deutsche Reichsbahn did not take delivery of the 62 003-015 until 1932. The reasons for this were the low demand at the Reichsbahn as well as the high price for the locomotives.\nThe locomotives were able to show off their sprint speed especially on the Werrabahn from Eisenach to Lichtenfels. After the Second World War, eight locomotives remained with the Deutsche Reichsbahn and seven with the Deutsche Bundesbahn.",
+    "localization" : {
+        "de": {
+            "name": "DRG/DR/DB BR 62",
+            "summary": "Eine der wichtigsten und meist gebauten Dampflokomotiven der DRG.",
+            "description": "Die Baureihe 62 wurde vom Engeren Lokomotivausschuss des Reichsbahn-Zentralamtes entwickelt und von Henschel Ende der 1920er-Jahre gebaut. Die Maschinen waren Zweizylinder-Heißdampflokomotiven. Es wurden insgesamt 15 Exemplare hergestellt. Obwohl alle Lokomotiven bereits 1928 gebaut worden waren, nahm die Deutsche Reichsbahn die 62 003–015 erst 1932 ab. Gründe dafür waren der geringe Bedarf bei der Reichsbahn sowie der hohe Preis für die Lokomotiven.\nVor allem auf der Werrabahn von Eisenach nach Lichtenfels konnten die Loks ihre Sprintschnelligkeit ausspielen. Nach dem Zweiten Weltkrieg verblieben acht Exemplare bei der Deutschen Reichsbahn und sieben bei der Deutschen Bundesbahn."
+        }
+    },
+    "authors": [
+        {
+            "name": "ModWerkstatt",
+            "role": "CREATOR"
+        }
+    ],
+    "tags": [
+        "Locomotive"
+    ],
+    "url": "https://www.modwerkstatt.com/downloads/tpf3/br-62"
+}
