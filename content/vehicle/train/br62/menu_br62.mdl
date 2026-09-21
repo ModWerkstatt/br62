@@ -41,14 +41,20 @@ return {
 		description = {
 			name = _("menu_br62"),
 		},
-		emissions = {
-			noise = {
-				score = 45,
+			emissions = { 
+				noise = { 
+					score = -1,
+					idle = -1,
+					power = -1,
+					speed = -1,
+				},
+				pollution = { 
+					score = -1,
+					idle = -1,
+					power = -1,
+					speed = -1,
+				},
 			},
-			pollution = {
-				score = 30,
-			},
-		},
 		maintenance = {
 			lifespan = 21915,
 			runningCosts = -1,
